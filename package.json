@@ -1,0 +1,16 @@
+{
+  "name": "block-highlighter",
+  "main": "./lib/block-highlighter.coffee",
+  "version": "1.0.0",
+  "description": "Simple package to highlight blocks of text via the gutter",
+  "keywords": [
+
+  ],
+  "repository": "https://github.com/atom/block-highlighter",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
